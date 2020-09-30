@@ -2,7 +2,7 @@
   "name": "@onivoro/server-elastic-search",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/onivoro/server-process.git"
+    "url": "https://github.com/onivoro/server-elastic-search.git"
   },
   "scripts": {
     "test": "jest",
