@@ -7,4 +7,3 @@ export const queryProcessFactory = (hostAddress: string, indexName: string, quer
   -H 'content-type: application/json' \\
   -d '${JSON.stringify({query}, null, 2)}'`)
 };
-
