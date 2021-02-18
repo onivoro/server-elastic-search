@@ -1,6 +1,6 @@
 {
   "name": "@onivoro/server-elastic-search",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {
     "url": "https://github.com/onivoro/server-elastic-search.git"
   },
